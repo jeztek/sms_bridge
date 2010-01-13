@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmsBridge</string>
+    
+    <string name="main_menu_startbridge">Start bridge</string>
+    <string name="main_menu_stopbridge">Stop bridge</string>
+</resources>
